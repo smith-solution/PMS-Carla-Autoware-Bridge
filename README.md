@@ -1,7 +1,8 @@
 <div align="center">
 
-# PMS-Carla-Autoware-Bridge .with Acelab
+# PMS-Carla-Autoware-Bridge (with Acelab)
 **CARLA를 활용하여 Autoware Core/Universe의 테스트 및 개발을 가능하게 합니다.**
+<br>
 [![Linux](https://img.shields.io/badge/os-ubuntu22.04-blue.svg)](https://www.linux.org/)
 [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://www.docker.com/)
 [![ROS2humble](https://img.shields.io/badge/ros2-humble-blue.svg)](https://docs.ros.org/en/humble/index.html)
